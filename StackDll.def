@@ -1,0 +1,4 @@
+EXPORTS
+  fmaInt
+  hs_init
+  hs_exit
